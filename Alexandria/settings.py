@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'primer.apps.PrimerConfig',
     'home.apps.HomeConfig',
+    'catalog.apps.CatalogConfig',
 
 ]
 
